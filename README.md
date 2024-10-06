@@ -81,3 +81,5 @@ The cohort analysis table displays the percentage of customers who continue to e
 2. Targeted Promotions: Utilize seasonal insights for strategic marketing campaigns.
 3. Customer Experience Optimization: Focus on improving customer satisfaction and loyalty.
 - Excited to delve deeper into these trends and drive data-informed strategies!
+
+- This is the link to all the projects I completed on AMDARI platform: https://www.amdari.io/profile/casmir-anyaegbu-600
